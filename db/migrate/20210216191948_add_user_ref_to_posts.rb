@@ -3,4 +3,3 @@ class AddUserRefToPosts < ActiveRecord::Migration[6.1]
     add_reference :posts, :user, foreign_key: true
   end
 end
-
