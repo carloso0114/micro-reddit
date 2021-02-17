@@ -11,11 +11,6 @@ You are able to create users, that are able to create posts and coment on those 
 - Ruby version 3.0.0
 - Ruby on Rails 6.1.2.1
 
-## Live Demo
-
-[Live Demo Link](https://repl.it/@StarSheriff2/Micro-Reddit)
-
-
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
